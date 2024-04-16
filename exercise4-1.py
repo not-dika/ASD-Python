@@ -3,8 +3,8 @@ nilais = []
 tot = 0
 cnt = 0
 while True:
-    a = input('Masukan Nilai [Tulis "Keluar" untuk keluar]: ')
-    if a.lower() != 'keluar':
+    a = input('Masukan Nilai [Tulis "Selesai" jika Selesai]: ')
+    if a.lower() != 'selesai':
       i = int(a)
       nilais.append(i)
       tot += i
