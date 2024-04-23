@@ -23,6 +23,22 @@ def main():
             a = int(input("Masukan bilangan pertama: "))
             b = int(input("Masukan bilangan kedua: "))
             print("Hasil jumlah: ", tambah(a,b))
+        elif pilih == 2:
+            a = int(input("Masukan bilangan pertama: "))
+            b = int(input("Masukan bilangan kedua: "))
+            print("Hasil jumlah: ", tambah(a,b))
+        elif pilih == 3:
+            a = int(input("Masukan bilangan pertama: "))
+            b = int(input("Masukan bilangan kedua: "))
+            print("Hasil jumlah: ", tambah(a,b))
+        elif pilih == 4:
+            a = int(input("Masukan bilangan pertama: "))
+            b = int(input("Masukan bilangan kedua: "))
+            print("Hasil jumlah: ", tambah(a,b))
+        
+        
+
+        
 
 
 
